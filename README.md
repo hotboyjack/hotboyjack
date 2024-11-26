@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hotboyjack
+- 👀 I’m interested in learning how to code and more.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me k97741881@gmail.com
+- 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+hotboyjack/hotboyjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
